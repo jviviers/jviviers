@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jviviers
+- 👋 Hi, I’m Jacques Viviers
 - 👀 I’m interested in Frontend Development (HTML,CSS, Javascript, React, and Node JS). Still busy developing my skills, so a mentor will be appreciated.
       Already graduated from University with a 3 year degree in Information Technology and working about 15 years at Altron Technologies (Senior Support). PS! No development projects in my current job (Technical stuff).
       Programming is being done in my free time and started in 2017 after graduation. Any remote work welcome need to develop new skills and get some coding cred.
